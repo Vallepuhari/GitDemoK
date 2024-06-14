@@ -8,6 +8,8 @@ public class day5 {
 	public void test() {
 		System.out.println("How are you");
 		System.out.println("Who are you");
-		System.out.println("Hello Bye");
+		System.out.println("Hello");
+		System.out.println("Bye");
+		
 	}
 }
