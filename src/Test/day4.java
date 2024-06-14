@@ -36,6 +36,10 @@ public class day4 {
 	@Test
 	public void D(){
 		System.out.println("HI");
+		//commit from develop branch gitstuff
+		System.out.println("HI1");
+		System.out.println("HI2");
+		System.out.println("HI3");
 		
 	}
 	
